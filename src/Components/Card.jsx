@@ -7,7 +7,7 @@ const Card = (props) => {
         <div className="flex flex-col md:relative">
             <div className="absolute -top-[7rem] z-10">
                 <img src={review.image} alt="image" className='w-[140px] h-[140px] rounded-full aspect-ratio z-25' />
-                <div className="w-[140px] h-[140px] bg-violet-500 rounded-full absolute top-[-6px] z-[-10] left-[10px]"></div>
+                <div className="w-[140px] h-[140px] bg-violet-900 rounded-full absolute top-[-6px] z-[-10] left-[10px]"></div>
             </div>
 
             <div className="text-center mt-7">

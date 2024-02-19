@@ -40,7 +40,7 @@ const Testimonial = (props) => {
 
             <div className="mt-5">
                 <button
-                    className="bg-violet-400 text-white font-bold px-10 py-2 rounded-md hover:bg-violet-500 transition-all duration-200 text-lg"
+                    className="bg-violet-800 text-white font-bold px-10 py-2 rounded-md hover:bg-violet-500 transition-all duration-200 text-lg"
                     onClick={surpriceShiftHandler}
                 >
                     Surprise Me
